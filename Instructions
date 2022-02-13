@@ -1,0 +1,2 @@
+For exercise 4, depending on whether you want to do b or c, change line 31.
+e.g. fitness_scores = GA('c') to fitness_scores = GA('b')
