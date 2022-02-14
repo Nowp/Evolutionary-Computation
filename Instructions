@@ -1,2 +1,15 @@
 For exercise 4, depending on whether you want to do b or c, change line 31.
 e.g. fitness_scores = GA('c') to fitness_scores = GA('b')
+
+For exercise 6, one can press run to reproduce the results in the plot.
+Note: the MA version of the algorithm takes quite some time.
+Different parameters can be set such as the mutation probability,
+the number of selections done by the tournament selection, and the population
+size.
+
+Other points:
+- We chose to do a mu+lambda replacement strategy, but different strategies can
+  be employed
+- The tournament selection does so with replacement, but this could also be
+  without
+- The population size must be an even number
