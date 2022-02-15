@@ -13,3 +13,5 @@ Other points:
 - The tournament selection does so with replacement, but this could also be
   without
 - The population size must be an even number
+
+For exercise 6, one can press the run button to reproduce the results in the plot.
